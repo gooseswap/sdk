@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/gooseswap/sdk.git",
+  "repository": "https://github.com/gooseswap/sdk-PancakeV2.git",
   "keywords": [
     "pancakeswap",
     "ethereum"
